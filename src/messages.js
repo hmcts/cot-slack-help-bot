@@ -291,7 +291,7 @@ function openHelpRequestBlocks() {
     return {
         "title": {
             "type": "plain_text",
-            "text": "COT Support Request"
+            "text": "Possessions Support Request"
         },
         "submit": {
             "type": "plain_text",
